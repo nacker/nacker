@@ -51,7 +51,7 @@
 
 ---
 
-### 🌐 社交平台
+## 🌐 社交平台
 
 <p align="center">
   <a href="https://resume.twinswolves.com/images/wechat.jpg" target="_blank">
@@ -64,7 +64,7 @@
 
 ---
 
-### 📌 精选项目
+## 📌 精选项目
 
 
 ---
