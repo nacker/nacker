@@ -56,10 +56,11 @@
 </p>
 
 
-<!-- Wakatime 编码时间统计 -->
-<img src="https://wakatime.com/share/@nacker/abcdef12-3456-7890-1234-567890abcdef.svg" width="100%" />
+## ⏱ 最近编码时间统计（WakaTime）
 
----
+<p align="center">
+  <img src="https://wakatime.com/share/@58aa9c25-6a13-4420-a3e3-39b660535d55/95e33667-6fd6-4e3b-baa8-629f19d9f250.svg" width="80%" />
+</p>
 
 ## 🌐 社交平台
 
